@@ -1,0 +1,26 @@
+Pour le bon fonctionement du projet 
+
+1tout d'abord n'oubliez pas de lancer votre serveur local (wamp ou xampp)
+2-veuiller importer la base de données(fichier:gestiondemandedestage.sql)
+3-lancer le projet a partir du fichier (landing_page.php)
+copier ce lien dans le navigateur
+(http://localhost/gestionDemandeDeStageV5/gestionDemadeStageV5/landing_page.php)
+
+4-pour se connceter en tant qu'administrateur :
+email:admin@gmail.com
+mot de passe : admin
+
+
+5-pour que l'envoie du mail se fait avec succées on doit faire les chngements suivant
+
+5-a remplacer le contenu du fichier sendmail.ini se situant dans C:\xampp\sendmail par le contenu du fichier sendmail.ini  se situant dans
+ C:\xampp\htdocs\gestionDemandeDeStageV5\gestionDemadeStageV5\FichierAModifier
+
+ 5-b remplacer le contenu fichier php.ini se situant dans (Pour xampp-->Ouvrir l'application xampp control pannel puis cliquer sur config du module apache 
+                                                   Pour Wamp--> cliquer sur l'icone wamp en bas a droite(fléche vers le haut contenant les icones cachés 
+                                                   puis cliquer sur php puis php.ini )
+  par le contenu fichier php.ini  se situant dans
+ C:\xampp\htdocs\gestionDemandeDeStageV5\gestionDemadeStageV5\FichierAModifier
+ 
+ 5-c se connecter a internet
+

@@ -1,0 +1,38 @@
+
+a.border{
+        
+    border-radius: 10%;
+    background-color: black;
+    text-decoration: none;
+}
+.btn{
+border-color: rgb(234, 234, 252);
+color: rgb(252, 252, 252);
+background-color: rgb(22, 23, 24);
+
+}
+
+
+body{
+    
+    background-image: url('');
+    background-clip: inherit;
+    /* background-color: rgb(108, 135, 209); */
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100vh;
+}
+.etoile{
+color: red;
+}
+label{
+font-weight: 700;
+}
+nav{
+font-weight: 400;
+}
+
+
+
+
+

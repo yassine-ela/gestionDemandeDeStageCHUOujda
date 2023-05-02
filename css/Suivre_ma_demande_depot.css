@@ -1,0 +1,26 @@
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+}
+.button1 {
+  background-color: #b7169489;
+  position:absolute;
+  top:12px ;
+  right: 6px;
+  border-radius: 30px;
+}
+.button2 {background-color: #339ec2;
+        position:absolute;
+        top:12px;
+        right:5cm;
+        border-radius: 30px;
+}
